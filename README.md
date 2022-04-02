@@ -5,4 +5,4 @@
 #SLL reverse
 #Stacks and application
 #Queues
-#Trees
+#Trees and operations
