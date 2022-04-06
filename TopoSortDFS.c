@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 20
-int v[MAX], a[MAX][MAX], n, q[MAX], top = -1, m = 0, s;
+int v[MAX], a[MAX][MAX], n, q[MAX], top = -1;
 
 int pop()
 {
