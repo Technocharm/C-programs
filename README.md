@@ -1,9 +1,16 @@
 # C-programs
 #Sorting methods
-#SLL operations 
-#DLL operations 
+<br>
+#SLL operations
+<br>
+#DLL operations
+<br>
 #SLL reverse
+<br>
 #Stacks and application
+<br>
 #Queues
+<br>
 #Trees and operations
+<br>
 #Graphs
