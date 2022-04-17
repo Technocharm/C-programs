@@ -125,7 +125,7 @@ void insertpos()
                 temp = temp->right;
                 i++;
             }
-            newnode->right = temp->right->right;
+            newnode->right = temp->right;
             newnode->left = temp;
             temp->right = newnode;
         }
